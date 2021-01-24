@@ -1,0 +1,1 @@
+This is mkmenck's first git project!
